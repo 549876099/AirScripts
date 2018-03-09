@@ -32,6 +32,8 @@ namespace AirScripts.src.form
             {
                 autoStartServer_checkBox.Checked = true;
             }
+
+            autoStartServer_checkBox.Enabled = false;
         }
 
         /// <summary>

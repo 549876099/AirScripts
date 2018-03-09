@@ -13,7 +13,7 @@ public class RunProcess
     {
         try
         {
-            proc.StartInfo.FileName = scriptsLocation + name + ".bat";
+            proc.StartInfo.FileName = scriptsLocation + name;
             proc.StartInfo.Arguments = string.Format("10");
             proc.StartInfo.CreateNoWindow = false;
             proc.Start();
