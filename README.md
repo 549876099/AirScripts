@@ -12,7 +12,7 @@
 * 远程执行bat脚本文件（存放于根目录下，Scripts目录中）
 
 ## 下载
-下载[最新版本](https://github.com/shadowsocks/shadowsocks-windows/releases)
+下载[最新版本](https://github.com/549876099/AirScripts/releases)
 
 ## 要求
 [Microsoft .NET Framework 4.6.1](https://www.microsoft.com/zh-cn/download/details.aspx?id=49982) 或更高
